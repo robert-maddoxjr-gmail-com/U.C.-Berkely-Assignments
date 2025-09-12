@@ -15,7 +15,8 @@ Each notebook demonstrates practical applications of core ML and data analysis c
 - **Focus:** Regression models and feature engineering  
 - **Key Takeaway:** Applied regression techniques and explored the impact of feature transformations.  
 
-### [PA3 – Practical_Application 3_Comparing_Classifiers (2).ipynb
+### [PA3 – Comparing Classifiers](./Practical_Application%203_Comparing_Classifiers%20(2).ipynb)
+
 - **Focus:** Evaluate multiple classifiers (Logistic Regression, KNN, Decision Tree, SVM) on the **Bank Marketing dataset**.  
 - **Key Findings:**  
   - Accuracy was high across all models (~88–91%) but misleading due to class imbalance.  
