@@ -15,12 +15,13 @@ Each notebook demonstrates practical applications of core ML and data analysis c
 - **Focus:** Regression models and feature engineering  
 - **Key Takeaway:** Applied regression techniques and explored the impact of feature transformations.  
 
-### PA3 – Comparing Classifiers
+### [PA3 – Comparing Classifiers](./Practical_Application_3.ipynb)
 - **Focus:** Evaluate multiple classifiers (Logistic Regression, KNN, Decision Tree, SVM) on the **Bank Marketing dataset**.  
 - **Key Findings:**  
   - Accuracy was high across all models (~88–91%) but misleading due to class imbalance.  
   - Logistic Regression with `class_weight="balanced"` achieved the best F1-score (~25.6%), making it the most effective model for identifying customers who subscribed.  
-- **Business Takeaway:** Even with lower overall accuracy, this model captures more "yes" responses, making it the superior choice for guiding bank marketing campaigns.  
+- **Business Takeaway:** Even with lower overall accuracy, this model captures more "yes" responses, making it the superior choice for guiding bank marketing campaigns.
+
 
 ---
 
