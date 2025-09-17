@@ -7,11 +7,11 @@ Each notebook demonstrates practical applications of core ML and data analysis c
 
 ## 📂 Contents
 
-### PA1 – [Assignment Title]
+### PA1 – Capstone Cyber readiness Initial report.ipynb
 - **Focus:** Data cleaning and exploratory analysis  
 - **Key Takeaway:** Learned how to prepare raw data for machine learning models.  
 
-### PA2 – [Assignment Title]
+### PA2 – Capstone Cyber Readiness Final report
 - **Focus:** Regression models and feature engineering  
 - **Key Takeaway:** Applied regression techniques and explored the impact of feature transformations.  
 
