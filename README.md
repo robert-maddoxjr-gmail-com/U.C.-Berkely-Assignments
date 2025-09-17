@@ -8,8 +8,10 @@ Each notebook demonstrates practical applications of core ML and data analysis c
 ## 📂 Contents
 
 ### PA1 – Capstone Cyber readiness Initial report.ipynb
-- **Focus:** Data cleaning and exploratory analysis  
-- **Key Takeaway:** Learned how to prepare raw data for machine learning models.  
+- **Focus:** Data cleaning and exploratory analysis
+- **Methods: Random Forest (baseline), XGBoost (multiclass), SHAP (feature interpretation).  
+- **Key Takeaway:** Established a pipeline for cybersecurity readiness prediction and identified
+- IT budget and audit frequency as leading drivers of proactive security posture. 
 
 ### PA2 – Capstone Cyber Readiness Final report
 - **Focus:** Regression models and feature engineering  
